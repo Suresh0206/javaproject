@@ -9,6 +9,8 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World, this is suresh sundhar" );
+    System.out.println( "Hello World, this is suresh sundhar and vishranthini" );
+        
     }
 
 	public int calculateSomething() {
